@@ -1,0 +1,8 @@
+body {
+    color: red;
+}
+
+image {
+    max-width: 100%;
+    min-height: 100%;
+}
